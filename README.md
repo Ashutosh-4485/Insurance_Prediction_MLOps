@@ -1,6 +1,4 @@
-Great! Here’s a clean and professional **README section** you can include in your GitHub repo under something like `## 🔧 Project Overview` or `## 💡 About the Project`:
 
----
 
 ## 💡 Project Overview
 
