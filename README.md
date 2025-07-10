@@ -30,6 +30,3 @@ This project demonstrates a complete end-to-end **Machine Learning pipeline** bu
   * Automatically runs tests and builds Docker images.
   * Deploys updated code to the EC2 instance on push.
 
----
-
-Let me know if you also want to include a section for setup instructions or architecture diagram.
